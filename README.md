@@ -1,4 +1,4 @@
-## Hi there 👋 I am Jhon Flores
+## Hey! 👋 I am Jhon Flores
 
 ###
 
