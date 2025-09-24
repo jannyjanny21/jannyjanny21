@@ -1,16 +1,23 @@
-## Hey! 👋 I am Jhon Flores
+<h1 align="center">Hi 👋, I'm Jhon Flores</h1>
+<h3 align="center">An aspiring software developer from the 🇵🇭</h3>
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jannyjanny21&label=Profile%20views&color=0e75b6&style=flat" alt="jannyjanny21" /> </p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=jannyjanny21&theme=dark&show_icons=true&hide_border=true&count_private=true"
+    alt="GitHub Stats"
+  />
+</p>
+
+***
+
+<h3 align="center">🛠 | Tech Skills</h3>
 
 ###
 
-![jannyjanny21's Stats](https://github-readme-stats.vercel.app/api?username=jannyjanny21&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-
-![jannyjanny21's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jannyjanny21&theme=onedark&show_icons=true&hide_border=false&layout=compact)
-
-<h3 align="left">🛠 | Tech Skills</h3>
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dotnet" />
@@ -37,3 +44,12 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
+
+
+
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://fb.com/floresjanny21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="floresjanny21" height="30" width="40" /></a>
+<a href="https://instagram.com/itsyaboi_jannyyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsyaboi_jannyyy" height="30" width="40" /></a>
+</p>
