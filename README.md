@@ -6,7 +6,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=jannyjanny21&theme=dark&show_icons=true&hide_border=true&count_private=true"
+    src="https://streak-stats.demolab.com?user=jannyjanny21&theme=dark&hide_border=true"
     alt="GitHub Stats"
   />
 </p>
