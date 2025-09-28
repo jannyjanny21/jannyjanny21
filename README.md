@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jhon Flores</h1>
-<h3 align="center">An aspiring software developer from the 🇵🇭</h3>
+<h1 align="center">Welcome to the crib</h1>
+<h3 align="center">of an aspiring software developer from the 🇵🇭</h3>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jannyjanny21&label=Profile%20views&color=0e75b6&style=flat" alt="jannyjanny21" /> </p>
